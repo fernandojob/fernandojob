@@ -19,6 +19,10 @@ Busco sempre a construção de sistemas organizados, seguros e de alta qualidade
 </p>
 
 <p>
+Tenho conhecimento avançado em <strong>SQL</strong>, incluindo a criação e otimização de <strong>triggers</strong>, <strong>procedures</strong>, <strong>transactions</strong> e a aplicação dos princípios de <strong>ACID</strong> para garantir a integridade e a consistência dos dados.
+</p>
+
+<p>
 Experiente em processos de <strong>DevOps</strong>, trabalho com <strong>Docker</strong>, <strong>CI/CD</strong> e deploys em ambientes em nuvem como <strong>AWS</strong>. 
 Também utilizo ferramentas como <strong>Git</strong>, <strong>GitLab</strong>, <strong>Swagger</strong>, <strong>Jest</strong> e <strong>Postman</strong> para garantir eficiência no ciclo de desenvolvimento.
 </p>
